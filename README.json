@@ -119,7 +119,7 @@
             "last_commit": "2026-08-14T13:18:25Z",
             "owner": "microsoft",
             "repo": "PowerPlatformConnectors",
-            "stars": 1275
+            "stars": 1276
           }
         }
       ],
@@ -358,7 +358,7 @@
             "last_commit": "2022-10-14T02:52:46Z",
             "owner": "Power-Maverick",
             "repo": "awesome-power-platform",
-            "stars": 112
+            "stars": 111
           }
         }
       ],
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:43:07.246Z",
+    "last_updated": "2026-08-16T01:51:02.082Z",
     "original_repository": "zenitysec/awesome-low-code",
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
     "enhanced_repository": "enhansome/enhansome-low-code",
