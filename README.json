@@ -102,7 +102,7 @@
                 "archived": false,
                 "id": 341704034,
                 "language": "C#",
-                "last_commit": "2026-08-07T20:20:50Z",
+                "last_commit": "2026-08-21T23:30:13Z",
                 "owner": "microsoft",
                 "repo": "Power-Fx",
                 "stars": 3364
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:49:24.295Z",
+    "last_updated": "2026-08-22T01:42:39.386Z",
     "original_repository": "zenitysec/awesome-low-code",
     "original_repository_id": 408922920,
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
