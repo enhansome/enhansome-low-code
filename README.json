@@ -221,7 +221,7 @@
                 "last_commit": "2026-01-19T13:00:05Z",
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
-                "stars": 355
+                "stars": 356
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2022-10-14T02:52:46Z",
                 "owner": "Power-Maverick",
                 "repo": "awesome-power-platform",
-                "stars": 111
+                "stars": 112
               }
             }
           ],
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:42:39.386Z",
+    "last_updated": "2026-08-23T01:52:43.168Z",
     "original_repository": "zenitysec/awesome-low-code",
     "original_repository_id": 408922920,
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
