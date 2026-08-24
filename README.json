@@ -127,6 +127,28 @@
           "description": null,
           "node_type": "group",
           "title": "Power Platform (Microsoft)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Custom Connector Docs",
+              "description": "Source files for Workato custom connector documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143073259,
+                "language": "Ruby",
+                "last_commit": "2022-01-11T18:07:59Z",
+                "owner": "workato",
+                "repo": "custom_connector_docs",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workato"
         }
       ],
       "title": "Reference Resources"
@@ -185,6 +207,28 @@
           "description": null,
           "node_type": "group",
           "title": "Power Platform (Microsoft)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Embedding Guide",
+              "description": "A guided example on how to use Workato embedded.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 218348560,
+                "language": "Vue",
+                "last_commit": "2024-07-25T11:03:59Z",
+                "owner": "workato",
+                "repo": "full-embed-sample",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workato"
         }
       ],
       "title": "Learning Resources"
@@ -382,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:50:09.745Z",
+    "last_updated": "2026-08-24T14:23:22.603Z",
     "original_repository": "zenitysec/awesome-low-code",
     "original_repository_id": 408922920,
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
