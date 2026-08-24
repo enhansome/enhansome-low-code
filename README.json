@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-21T23:30:13Z",
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3364
+                "stars": 3365
               }
             },
             {
@@ -148,7 +148,7 @@
                 "last_commit": "2026-07-31T18:05:27Z",
                 "owner": "MicrosoftLearning",
                 "repo": "PL-900-Microsoft-Power-Platform-Fundamentals",
-                "stars": 338
+                "stars": 339
               }
             },
             {
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T01:52:43.168Z",
+    "last_updated": "2026-08-24T01:50:09.745Z",
     "original_repository": "zenitysec/awesome-low-code",
     "original_repository_id": 408922920,
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
