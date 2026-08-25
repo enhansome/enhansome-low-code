@@ -140,7 +140,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [XrmToolBox](https://github.com/MscrmTools/XrmToolBox) ⭐ 646 | 🐛 124 | 🌐 C# | 📅 2026-08-18 - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
+* [XrmToolBox](https://github.com/MscrmTools/XrmToolBox) ⭐ 647 | 🐛 124 | 🌐 C# | 📅 2026-08-18 - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
 * [Levelup for Dynamics CRM](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) ⭐ 269 | 🐛 57 | 🌐 TypeScript | 📅 2026-04-15 - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
 * [Flow & Power Apps Migrator](https://github.com/Zerg00s/FlowPowerAppsMigrator) ⭐ 155 | 🐛 41 | 🌐 PowerShell | 📅 2025-08-05 - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
 * [Power Platform Adoption Framework](https://github.com/PowerPlatformAF/PowerPlatformAF) ⭐ 134 | 🐛 64 | 📅 2021-03-20 - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
@@ -150,7 +150,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,365 | 🐛 369 | 🌐 C# | 📅 2026-08-21 - Power Fx Low Code programming language.
+* [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,364 | 🐛 369 | 🌐 C# | 📅 2026-08-21 - Power Fx Low Code programming language.
 * [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,276 | 🐛 366 | 🌐 C# | 📅 2026-08-19 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Workato

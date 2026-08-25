@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T16:02:44Z",
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
-                "stars": 646
+                "stars": 647
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-21T23:30:13Z",
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3365
+                "stars": 3364
               }
             },
             {
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:44:48.504Z",
+    "last_updated": "2026-08-25T06:19:56.199Z",
     "original_repository": "zenitysec/awesome-low-code",
     "original_repository_id": 408922920,
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
