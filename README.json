@@ -32,7 +32,7 @@
                 "last_commit": "2026-04-15T18:50:41Z",
                 "owner": "rajyraman",
                 "repo": "Levelup-for-Dynamics-CRM",
-                "stars": 269
+                "stars": 270
               }
             },
             {
@@ -117,7 +117,7 @@
                 "archived": false,
                 "id": 161588836,
                 "language": "C#",
-                "last_commit": "2026-08-19T17:19:56Z",
+                "last_commit": "2026-08-25T17:14:39Z",
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1276
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:56.199Z",
+    "last_updated": "2026-08-26T01:50:16.095Z",
     "original_repository": "zenitysec/awesome-low-code",
     "original_repository_id": 408922920,
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
