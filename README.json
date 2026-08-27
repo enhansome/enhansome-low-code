@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 30378060,
                 "language": "C#",
-                "last_commit": "2026-08-18T16:02:44Z",
+                "last_commit": "2026-08-26T16:45:12Z",
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 647
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:50:16.095Z",
+    "last_updated": "2026-08-27T09:23:02.497Z",
     "original_repository": "zenitysec/awesome-low-code",
     "original_repository_id": 408922920,
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
