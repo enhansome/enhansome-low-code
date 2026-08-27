@@ -426,9 +426,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:23:02.497Z",
-    "original_repository": "zenitysec/awesome-low-code",
-    "original_repository_id": 408922920,
+    "last_updated": "2026-08-27T11:49:30.755Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 408922920,
+      "language": null,
+      "last_commit": "2026-04-05T09:39:58Z",
+      "owner": "zenitysec",
+      "repo": "awesome-low-code",
+      "stars": 455
+    },
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
     "enhanced_repository": "enhansome/enhansome-low-code",
     "enhanced_repository_description": null,
