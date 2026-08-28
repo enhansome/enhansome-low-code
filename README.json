@@ -18,7 +18,8 @@
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 647
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "rajyraman",
                 "repo": "Levelup-for-Dynamics-CRM",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "Zerg00s",
                 "repo": "FlowPowerAppsMigrator",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "PowerPlatformAF",
                 "repo": "PowerPlatformAF",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "Dev-Mom",
                 "repo": "SharePointWorkflowConverter",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             }
           ],
           "description": null,
@@ -106,7 +111,8 @@
                 "owner": "microsoft",
                 "repo": "Power-Fx",
                 "stars": 3364
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1276
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             }
           ],
           "description": null,
@@ -143,7 +150,8 @@
                 "owner": "workato",
                 "repo": "custom_connector_docs",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             }
           ],
           "description": null,
@@ -170,8 +178,9 @@
                 "last_commit": "2026-07-31T18:05:27Z",
                 "owner": "MicrosoftLearning",
                 "repo": "PL-900-Microsoft-Power-Platform-Fundamentals",
-                "stars": 339
-              }
+                "stars": 340
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -186,7 +195,8 @@
                 "owner": "pnp",
                 "repo": "powerfx-samples",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -201,7 +211,8 @@
                 "owner": "microsoft",
                 "repo": "PowerApps-Azure-Lab",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             }
           ],
           "description": null,
@@ -223,7 +234,8 @@
                 "owner": "workato",
                 "repo": "full-embed-sample",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             }
           ],
           "description": null,
@@ -250,8 +262,9 @@
                 "last_commit": "2025-08-06T21:09:23Z",
                 "owner": "pnp",
                 "repo": "powerapps-samples",
-                "stars": 533
-              }
+                "stars": 534
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -266,7 +279,8 @@
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -281,7 +295,8 @@
                 "owner": "pnp",
                 "repo": "sp-power-platform-solutions",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -296,7 +311,8 @@
                 "owner": "Eickhel",
                 "repo": "PowerApps-samples",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -311,7 +327,8 @@
                 "owner": "iAmManCat",
                 "repo": "PowerApps-Branding-Template",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -326,7 +343,8 @@
                 "owner": "ferrybouwman",
                 "repo": "Power-BI-Read-Only-REST-API",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -341,7 +359,8 @@
                 "owner": "ericsche",
                 "repo": "MCinTeams",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -356,7 +375,8 @@
                 "owner": "wortell",
                 "repo": "PowerAutomate-AutomatischeReistijd",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -371,7 +391,8 @@
                 "owner": "vaibhav21791",
                 "repo": "PostListItemToTwitter",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             }
           ],
           "description": null,
@@ -399,7 +420,8 @@
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             },
             {
               "node_type": "item",
@@ -414,7 +436,8 @@
                 "owner": "Power-Maverick",
                 "repo": "awesome-power-platform",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T11:11:21.608Z"
             }
           ],
           "description": null,
@@ -426,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:30.755Z",
+    "last_updated": "2026-08-28T11:11:21.608Z",
     "original_repository_info": {
       "archived": false,
       "id": 408922920,
