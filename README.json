@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps",
+                "homepage": "https://www.xrmtoolbox.com",
                 "id": 30378060,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T16:45:12Z",
+                "open_issues": 118,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
-                "stars": 647
+                "stars": 647,
+                "topics": [
+                  "cds",
+                  "microsoft-dataverse",
+                  "microsoft-dynamics",
+                  "microsoft-dynamics-crm",
+                  "powerapps",
+                  "xrmtoolbox"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -28,12 +40,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users",
+                "homepage": null,
                 "id": 59292748,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-15T18:50:41Z",
+                "open_issues": 57,
                 "owner": "rajyraman",
                 "repo": "Levelup-for-Dynamics-CRM",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "chrome-extension",
+                  "dataverse",
+                  "dynamics-365",
+                  "dynamics-crm",
+                  "power-apps",
+                  "powerapps"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -44,12 +68,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.",
+                "homepage": null,
                 "id": 142366406,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2025-08-05T16:27:37Z",
+                "open_issues": 41,
                 "owner": "Zerg00s",
                 "repo": "FlowPowerAppsMigrator",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "flow",
+                  "migration-tool",
+                  "powerapps",
+                  "powerapps-packages",
+                  "powerautomate",
+                  "powershell",
+                  "sharepoint"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -60,12 +97,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Power Platform Adoption Framework",
+                "homepage": "http://www.PowerPlatform.af",
                 "id": 197958630,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-03-20T17:38:30Z",
+                "open_issues": 64,
                 "owner": "PowerPlatformAF",
                 "repo": "PowerPlatformAF",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "dynamics365",
+                  "microsoft",
+                  "powerapps",
+                  "powerautomate",
+                  "powerbi",
+                  "powerplatform",
+                  "powervirtualagent"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -76,12 +126,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.",
+                "homepage": null,
                 "id": 295843228,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-09-16T23:34:47Z",
+                "open_issues": 1,
                 "owner": "Dev-Mom",
                 "repo": "SharePointWorkflowConverter",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "logicapps",
+                  "powerautomate",
+                  "sharepoint",
+                  "sharepoint-online",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             }
@@ -105,12 +166,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Power Fx low-code programming language",
+                "homepage": null,
                 "id": 341704034,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-21T23:30:13Z",
+                "open_issues": 369,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3364
+                "stars": 3364,
+                "topics": [
+                  "power-fx",
+                  "powerfx"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -121,12 +190,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors",
+                "homepage": "https://aka.ms/connectors",
                 "id": 161588836,
                 "language": "C#",
-                "last_commit": "2026-08-25T17:14:39Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T12:47:40Z",
+                "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1276
+                "stars": 1277,
+                "topics": [
+                  "connector",
+                  "hacktoberfest",
+                  "logicapps",
+                  "microsoft",
+                  "power-platform",
+                  "powerapps",
+                  "powerautomate"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             }
@@ -144,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 143073259,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-01-11T18:07:59Z",
+                "open_issues": 40,
                 "owner": "workato",
                 "repo": "custom_connector_docs",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             }
@@ -173,12 +260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PL-900 Introduction to Microsoft Power Platform",
+                "homepage": "https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals/",
                 "id": 216921933,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-31T18:05:27Z",
+                "open_issues": 0,
                 "owner": "MicrosoftLearning",
                 "repo": "PL-900-Microsoft-Power-Platform-Fundamentals",
-                "stars": 340
+                "stars": 340,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -189,12 +281,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains samples for Power Fx low-code programming language https://github.com/microsoft/Power-Fx",
+                "homepage": "https://aka.ms/powerplatform-samples",
                 "id": 342045149,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-01-23T07:54:50Z",
+                "open_issues": 3,
                 "owner": "pnp",
                 "repo": "powerfx-samples",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "hacktoberfest",
+                  "powerapps",
+                  "powerfx"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -205,12 +306,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Repository to host the PowerApps Azure Lab",
+                "homepage": null,
                 "id": 218910326,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-08T09:08:50Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "PowerApps-Azure-Lab",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "azure-webapp",
+                  "custom-connector",
+                  "powerapps"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             }
@@ -228,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 218348560,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2024-07-25T11:03:59Z",
+                "open_issues": 28,
                 "owner": "workato",
                 "repo": "full-embed-sample",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             }
@@ -257,12 +372,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains curated community Microsoft Power App samples",
+                "homepage": "https://aka.ms/powerplatform-samples",
                 "id": 342050865,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-08-06T21:09:23Z",
+                "open_issues": 39,
                 "owner": "pnp",
                 "repo": "powerapps-samples",
-                "stars": 534
+                "stars": 534,
+                "topics": [
+                  "hacktoberfest",
+                  "powerapps",
+                  "powerplatform"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -273,12 +397,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains curated community samples for Microsoft Power Automate",
+                "homepage": "https://aka.ms/powerplatform-samples",
                 "id": 359337313,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-01-19T13:00:05Z",
+                "open_issues": 14,
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
-                "stars": 356
+                "stars": 356,
+                "topics": [
+                  "hacktoberfest",
+                  "powerautomate",
+                  "powerplatform"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -289,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample PowerApps solutions designed to be used in SharePoint context",
+                "homepage": null,
                 "id": 168279699,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2020-01-29T18:24:20Z",
+                "open_issues": 2,
                 "owner": "pnp",
                 "repo": "sp-power-platform-solutions",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -305,12 +443,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PowerApps samples",
+                "homepage": "https://powernimbus.com",
                 "id": 155584666,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T07:04:06Z",
+                "open_issues": 6,
                 "owner": "Eickhel",
                 "repo": "PowerApps-samples",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "business-app",
+                  "powerapps"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -321,12 +467,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template to empower developers and reduce time wasted on control changes",
+                "homepage": "https://powerusers.microsoft.com/t5/Community-App-Samples/Branding-Template-App-Automagical/td-p/363582",
                 "id": 210877258,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2024-07-31T18:35:58Z",
+                "open_issues": 0,
                 "owner": "iAmManCat",
                 "repo": "PowerApps-Branding-Template",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "branding",
+                  "powerapps"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -337,12 +491,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API",
+                "homepage": null,
                 "id": 325276314,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2022-11-08T13:18:03Z",
+                "open_issues": 3,
                 "owner": "ferrybouwman",
                 "repo": "Power-BI-Read-Only-REST-API",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "flow",
+                  "microsoft-flow",
+                  "pbi",
+                  "powerautomate",
+                  "powerbi",
+                  "powershell",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -353,12 +520,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel",
+                "homepage": null,
                 "id": 366708198,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-12T12:21:58Z",
+                "open_issues": 2,
                 "owner": "ericsche",
                 "repo": "MCinTeams",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "microsoft-teams",
+                  "powerautomate"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -369,12 +544,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic travel time in your Office 365 calendar.",
+                "homepage": null,
                 "id": 314281812,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-11-26T09:58:36Z",
+                "open_issues": 0,
                 "owner": "wortell",
                 "repo": "PowerAutomate-AutomatischeReistijd",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "powerautomate"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -385,12 +567,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Microsoft Power Automate Flow to Post a SharePoint List Item to Twitter along with media content",
+                "homepage": null,
                 "id": 286692361,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-08-11T08:46:25Z",
+                "open_issues": 0,
                 "owner": "vaibhav21791",
                 "repo": "PostListItemToTwitter",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "dynamics-365",
+                  "dynamics-crm",
+                  "powerautomate",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             }
@@ -414,12 +606,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome nocode and lowcode ressources for building software without code.",
+                "homepage": null,
                 "id": 347033367,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-09T09:00:33Z",
+                "open_issues": 20,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
-                "stars": 416
+                "stars": 416,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "forms",
+                  "low-code",
+                  "low-code-development",
+                  "low-code-development-platform",
+                  "lowcode",
+                  "no-code",
+                  "nocode",
+                  "nocode-list",
+                  "website-builder",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             },
@@ -430,12 +640,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome things regarding the Power Platform ecosystem.",
+                "homepage": "https://powerlist.page/",
                 "id": 293909229,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-10-14T02:52:46Z",
+                "open_issues": 1,
                 "owner": "Power-Maverick",
                 "repo": "awesome-power-platform",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "power-platform",
+                  "powerapps",
+                  "powerappscomponentframework",
+                  "powerbi",
+                  "powervirtualagent",
+                  "samples",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
             }
@@ -449,15 +674,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:11:21.608Z",
+    "last_updated": "2026-08-29T04:42:15.965Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Low Code platforms, vendors, tools and resources",
+      "homepage": null,
       "id": 408922920,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-04-05T09:39:58Z",
+      "open_issues": 12,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
-      "stars": 455
+      "stars": 455,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "business-process-automation",
+        "citizen-developers",
+        "citizen-development",
+        "integration-platform",
+        "ipaas",
+        "low-code",
+        "low-code-development-platform",
+        "no-code",
+        "robotic-process-automation",
+        "rpa"
+      ]
     },
     "original_repository_sha": "14807b9b580e32d6c9224cb048b4afbdb55dd5fa",
     "enhanced_repository": "enhansome/enhansome-low-code",
