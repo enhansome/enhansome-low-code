@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T16:45:12Z",
-                "open_issues": 118,
+                "open_issues": 117,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 647,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T06:55:35.798Z",
+    "last_updated": "2026-08-30T05:10:56.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
