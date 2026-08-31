@@ -151,7 +151,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 ### Power Platform (Microsoft)
 
 * [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,364 | 🐛 369 | 🌐 C# | 📅 2026-08-21 - Power Fx Low Code programming language.
-* [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,277 | 🐛 371 | 🌐 C# | 📅 2026-08-28 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
+* [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,277 | 🐛 372 | 🌐 C# | 📅 2026-08-28 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Workato
 
@@ -224,4 +224,4 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
