@@ -21,7 +21,7 @@
                 "open_issues": 117,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "cds",
                   "microsoft-dataverse",
@@ -195,8 +195,8 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-28T12:47:40Z",
-                "open_issues": 372,
+                "last_commit": "2026-08-31T15:08:04Z",
+                "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1277,
@@ -269,7 +269,7 @@
                 "open_issues": 0,
                 "owner": "MicrosoftLearning",
                 "repo": "PL-900-Microsoft-Power-Platform-Fundamentals",
-                "stars": 340,
+                "stars": 339,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
@@ -406,7 +406,7 @@
                 "open_issues": 14,
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
-                "stars": 356,
+                "stars": 355,
                 "topics": [
                   "hacktoberfest",
                   "powerautomate",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:19:05.275Z",
+    "last_updated": "2026-09-01T04:53:41.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
