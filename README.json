@@ -77,7 +77,7 @@
                 "open_issues": 41,
                 "owner": "Zerg00s",
                 "repo": "FlowPowerAppsMigrator",
-                "stars": 155,
+                "stars": 154,
                 "topics": [
                   "flow",
                   "migration-tool",
@@ -171,8 +171,8 @@
                 "id": 341704034,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-01T23:11:53Z",
-                "open_issues": 370,
+                "last_commit": "2026-09-02T23:09:21Z",
+                "open_issues": 369,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
                 "stars": 3364,
@@ -290,7 +290,7 @@
                 "open_issues": 3,
                 "owner": "pnp",
                 "repo": "powerfx-samples",
-                "stars": 135,
+                "stars": 134,
                 "topics": [
                   "hacktoberfest",
                   "powerapps",
@@ -381,7 +381,7 @@
                 "open_issues": 39,
                 "owner": "pnp",
                 "repo": "powerapps-samples",
-                "stars": 534,
+                "stars": 533,
                 "topics": [
                   "hacktoberfest",
                   "powerapps",
@@ -406,7 +406,7 @@
                 "open_issues": 14,
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
-                "stars": 355,
+                "stars": 354,
                 "topics": [
                   "hacktoberfest",
                   "powerautomate",
@@ -448,7 +448,7 @@
                 "id": 155584666,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T22:16:04Z",
+                "last_commit": "2026-09-02T23:31:33Z",
                 "open_issues": 7,
                 "owner": "Eickhel",
                 "repo": "PowerApps-samples",
@@ -476,7 +476,7 @@
                 "open_issues": 0,
                 "owner": "iAmManCat",
                 "repo": "PowerApps-Branding-Template",
-                "stars": 74,
+                "stars": 73,
                 "topics": [
                   "branding",
                   "powerapps"
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:14:21.244Z",
+    "last_updated": "2026-09-03T04:09:38.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
