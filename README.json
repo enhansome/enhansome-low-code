@@ -46,7 +46,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-04-15T18:50:41Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "rajyraman",
                 "repo": "Levelup-for-Dynamics-CRM",
                 "stars": 270,
@@ -171,7 +171,7 @@
                 "id": 341704034,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-02T23:09:21Z",
+                "last_commit": "2026-09-04T02:01:13Z",
                 "open_issues": 369,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
@@ -195,8 +195,8 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-01T13:24:50Z",
-                "open_issues": 368,
+                "last_commit": "2026-09-03T15:07:04Z",
+                "open_issues": 370,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1277,
@@ -431,7 +431,7 @@
                 "open_issues": 2,
                 "owner": "pnp",
                 "repo": "sp-power-platform-solutions",
-                "stars": 184,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
@@ -448,8 +448,8 @@
                 "id": 155584666,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T23:31:33Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-03T07:20:17Z",
+                "open_issues": 6,
                 "owner": "Eickhel",
                 "repo": "PowerApps-samples",
                 "stars": 83,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:09:38.553Z",
+    "last_updated": "2026-09-04T04:17:23.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
