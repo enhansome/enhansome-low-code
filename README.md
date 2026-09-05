@@ -150,7 +150,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,364 | 🐛 369 | 🌐 C# | 📅 2026-09-04 - Power Fx Low Code programming language.
+* [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,365 | 🐛 369 | 🌐 C# | 📅 2026-09-04 - Power Fx Low Code programming language.
 * [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,277 | 🐛 370 | 🌐 C# | 📅 2026-09-03 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Workato
@@ -161,7 +161,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) ⭐ 339 | 🐛 0 | 📅 2026-07-31 - Power Platform Fundamentals course materials.
+* [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) ⭐ 341 | 🐛 0 | 📅 2026-07-31 - Power Platform Fundamentals course materials.
 * [Power Fx Samples](https://github.com/pnp/powerfx-samples) ⭐ 134 | 🐛 3 | 📅 2024-01-23 - This repository contains samples for Power Fx Low Code programming language.
 * [Power Apps & Azure Lab](https://github.com/microsoft/PowerApps-Azure-Lab) ⚠️ Archived - Repository to host the PowerApps Azure Lab.
 
@@ -219,9 +219,9 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Awesome No Code Low Code](https://github.com/valentin-vogel/awesome-nocode-lowcode) ⭐ 416 | 🐛 21 | 📅 2026-08-09 - A collection of awesome No Code and Low Code resources.
+* [Awesome No Code Low Code](https://github.com/valentin-vogel/awesome-nocode-lowcode) ⭐ 416 | 🐛 22 | 📅 2026-08-09 - A collection of awesome No Code and Low Code resources.
 * [Awesome Microsoft Power Platform](https://github.com/Power-Maverick/awesome-power-platform) ⭐ 112 | 🐛 1 | 📅 2022-10-14 - A collection of awesome things regarding the Power Platform ecosystem.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
