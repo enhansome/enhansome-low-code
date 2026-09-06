@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-03T15:07:04Z",
-                "open_issues": 370,
+                "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1277,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:13:28.661Z",
+    "last_updated": "2026-09-06T04:21:52.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
