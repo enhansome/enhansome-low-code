@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T16:45:12Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 648,
@@ -476,7 +476,7 @@
                 "open_issues": 0,
                 "owner": "iAmManCat",
                 "repo": "PowerApps-Branding-Template",
-                "stars": 73,
+                "stars": 72,
                 "topics": [
                   "branding",
                   "powerapps"
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:21:52.086Z",
+    "last_updated": "2026-09-07T04:21:02.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
