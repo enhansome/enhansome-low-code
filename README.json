@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T16:45:12Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 648,
@@ -612,7 +612,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-09T09:00:33Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 416,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T04:21:02.471Z",
+    "last_updated": "2026-09-08T04:21:22.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
@@ -683,7 +683,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-04-05T09:39:58Z",
-      "open_issues": 14,
+      "open_issues": 12,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
       "stars": 456,
