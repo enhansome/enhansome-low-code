@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T16:45:12Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 648,
@@ -195,7 +195,7 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-03T15:07:04Z",
+                "last_commit": "2026-09-08T12:02:52Z",
                 "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T04:21:22.002Z",
+    "last_updated": "2026-09-09T04:26:26.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
@@ -686,7 +686,7 @@
       "open_issues": 12,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
-      "stars": 456,
+      "stars": 457,
       "topics": [
         "awesome",
         "awesome-list",
