@@ -175,7 +175,7 @@
                 "open_issues": 369,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3365,
+                "stars": 3364,
                 "topics": [
                   "power-fx",
                   "powerfx"
@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-10T15:06:02Z",
-                "open_issues": 374,
+                "open_issues": 375,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1281,
@@ -431,7 +431,7 @@
                 "open_issues": 2,
                 "owner": "pnp",
                 "repo": "sp-power-platform-solutions",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:21:54.155Z",
+    "last_updated": "2026-09-13T04:35:31.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
