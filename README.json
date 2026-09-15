@@ -21,7 +21,7 @@
                 "open_issues": 118,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
-                "stars": 649,
+                "stars": 650,
                 "topics": [
                   "cds",
                   "microsoft-dataverse",
@@ -196,10 +196,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-10T15:06:02Z",
-                "open_issues": 375,
+                "open_issues": 378,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1282,
+                "stars": 1283,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T04:41:44.910Z",
+    "last_updated": "2026-09-15T04:43:14.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
