@@ -199,7 +199,7 @@
                 "open_issues": 378,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1283,
+                "stars": 1284,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -381,7 +381,7 @@
                 "open_issues": 39,
                 "owner": "pnp",
                 "repo": "powerapps-samples",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "hacktoberfest",
                   "powerapps",
@@ -406,7 +406,7 @@
                 "open_issues": 14,
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "hacktoberfest",
                   "powerautomate",
@@ -649,7 +649,7 @@
                 "open_issues": 1,
                 "owner": "Power-Maverick",
                 "repo": "awesome-power-platform",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T04:43:14.970Z",
+    "last_updated": "2026-09-16T04:37:40.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
