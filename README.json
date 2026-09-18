@@ -195,11 +195,11 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-16T13:17:25Z",
-                "open_issues": 378,
+                "last_commit": "2026-09-17T15:05:06Z",
+                "open_issues": 377,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1285,
+                "stars": 1286,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -448,8 +448,8 @@
                 "id": 155584666,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T02:09:17Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-17T07:12:59Z",
+                "open_issues": 6,
                 "owner": "Eickhel",
                 "repo": "PowerApps-samples",
                 "stars": 84,
@@ -615,7 +615,7 @@
                 "open_issues": 21,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T04:42:18.254Z",
+    "last_updated": "2026-09-18T04:27:49.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
