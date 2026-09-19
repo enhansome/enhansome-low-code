@@ -195,8 +195,8 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-17T15:05:06Z",
-                "open_issues": 377,
+                "last_commit": "2026-09-18T13:11:16Z",
+                "open_issues": 374,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1286,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T04:27:49.289Z",
+    "last_updated": "2026-09-19T04:25:09.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
@@ -686,7 +686,7 @@
       "open_issues": 13,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
-      "stars": 457,
+      "stars": 458,
       "topics": [
         "awesome",
         "awesome-list",
