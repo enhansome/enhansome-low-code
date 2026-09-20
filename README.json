@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:11:16Z",
-                "open_issues": 374,
+                "open_issues": 375,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1286,
@@ -381,7 +381,7 @@
                 "open_issues": 39,
                 "owner": "pnp",
                 "repo": "powerapps-samples",
-                "stars": 535,
+                "stars": 536,
                 "topics": [
                   "hacktoberfest",
                   "powerapps",
@@ -406,7 +406,7 @@
                 "open_issues": 14,
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
-                "stars": 356,
+                "stars": 357,
                 "topics": [
                   "hacktoberfest",
                   "powerautomate",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:25:09.503Z",
+    "last_updated": "2026-09-20T04:43:18.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
