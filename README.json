@@ -18,10 +18,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T10:51:05Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
-                "stars": 651,
+                "stars": 652,
                 "topics": [
                   "cds",
                   "microsoft-dataverse",
@@ -106,7 +106,7 @@
                 "open_issues": 64,
                 "owner": "PowerPlatformAF",
                 "repo": "PowerPlatformAF",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "dynamics365",
                   "microsoft",
@@ -172,7 +172,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-04T02:01:13Z",
-                "open_issues": 369,
+                "open_issues": 370,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
                 "stars": 3366,
@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:11:16Z",
-                "open_issues": 375,
+                "open_issues": 376,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1286,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T04:41:48.092Z",
+    "last_updated": "2026-09-22T04:38:16.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
