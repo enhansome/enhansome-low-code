@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T10:51:05Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 652,
@@ -172,10 +172,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-04T02:01:13Z",
-                "open_issues": 370,
+                "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3366,
+                "stars": 3365,
                 "topics": [
                   "power-fx",
                   "powerfx"
@@ -195,8 +195,8 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:11:16Z",
-                "open_issues": 376,
+                "last_commit": "2026-09-22T11:49:51Z",
+                "open_issues": 375,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1286,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T04:38:16.538Z",
+    "last_updated": "2026-09-23T04:34:08.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
