@@ -171,8 +171,8 @@
                 "id": 341704034,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-04T02:01:13Z",
-                "open_issues": 371,
+                "last_commit": "2026-09-24T00:13:51Z",
+                "open_issues": 372,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
                 "stars": 3365,
@@ -196,10 +196,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-22T11:49:51Z",
-                "open_issues": 375,
+                "open_issues": 377,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1286,
+                "stars": 1287,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -381,7 +381,7 @@
                 "open_issues": 39,
                 "owner": "pnp",
                 "repo": "powerapps-samples",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "hacktoberfest",
                   "powerapps",
@@ -612,7 +612,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-09T09:00:33Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 417,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:34:08.665Z",
+    "last_updated": "2026-09-24T04:31:43.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
