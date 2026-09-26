@@ -17,11 +17,11 @@
                 "id": 30378060,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T10:51:05Z",
-                "open_issues": 120,
+                "last_commit": "2026-09-25T06:52:08Z",
+                "open_issues": 119,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "cds",
                   "microsoft-dataverse",
@@ -195,8 +195,8 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-24T15:05:28Z",
-                "open_issues": 377,
+                "last_commit": "2026-09-25T13:31:14Z",
+                "open_issues": 372,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1287,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T04:43:00.948Z",
+    "last_updated": "2026-09-26T04:45:26.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
