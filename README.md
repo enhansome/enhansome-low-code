@@ -161,7 +161,7 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) ⭐ 342 | 🐛 0 | 📅 2026-07-31 - Power Platform Fundamentals course materials.
+* [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) ⭐ 343 | 🐛 0 | 📅 2026-07-31 - Power Platform Fundamentals course materials.
 * [Power Fx Samples](https://github.com/pnp/powerfx-samples) ⭐ 135 | 🐛 3 | 📅 2024-01-23 - This repository contains samples for Power Fx Low Code programming language.
 * [Power Apps & Azure Lab](https://github.com/microsoft/PowerApps-Azure-Lab) ⚠️ Archived - Repository to host the PowerApps Azure Lab.
 
@@ -224,4 +224,4 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

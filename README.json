@@ -269,7 +269,7 @@
                 "open_issues": 0,
                 "owner": "MicrosoftLearning",
                 "repo": "PL-900-Microsoft-Power-Platform-Fundamentals",
-                "stars": 342,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:07:52.910Z",
+    "last_updated": "2026-09-28T05:10:25.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
