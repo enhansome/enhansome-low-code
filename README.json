@@ -172,10 +172,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-24T20:14:07Z",
-                "open_issues": 372,
+                "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3365,
+                "stars": 3361,
                 "topics": [
                   "power-fx",
                   "powerfx"
@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-25T13:31:14Z",
-                "open_issues": 372,
+                "open_issues": 374,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1289,
@@ -286,7 +286,7 @@
                 "id": 342045149,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2024-01-23T07:54:50Z",
+                "last_commit": "2026-09-28T11:40:11Z",
                 "open_issues": 3,
                 "owner": "pnp",
                 "repo": "powerfx-samples",
@@ -377,7 +377,7 @@
                 "id": 342050865,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2025-08-06T21:09:23Z",
+                "last_commit": "2026-09-28T11:39:29Z",
                 "open_issues": 39,
                 "owner": "pnp",
                 "repo": "powerapps-samples",
@@ -402,11 +402,11 @@
                 "id": 359337313,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-01-19T13:00:05Z",
+                "last_commit": "2026-09-28T11:39:58Z",
                 "open_issues": 14,
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "hacktoberfest",
                   "powerautomate",
@@ -615,7 +615,7 @@
                 "open_issues": 22,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T05:10:25.531Z",
+    "last_updated": "2026-09-29T05:33:05.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
