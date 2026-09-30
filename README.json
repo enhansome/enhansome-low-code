@@ -46,7 +46,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-04-15T18:50:41Z",
-                "open_issues": 59,
+                "open_issues": 61,
                 "owner": "rajyraman",
                 "repo": "Levelup-for-Dynamics-CRM",
                 "stars": 270,
@@ -175,7 +175,7 @@
                 "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3361,
+                "stars": 3362,
                 "topics": [
                   "power-fx",
                   "powerfx"
@@ -195,8 +195,8 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-25T13:31:14Z",
-                "open_issues": 374,
+                "last_commit": "2026-09-29T14:04:17Z",
+                "open_issues": 372,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1289,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:33:05.809Z",
+    "last_updated": "2026-09-30T05:21:20.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
