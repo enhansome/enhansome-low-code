@@ -175,7 +175,7 @@
                 "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3363,
+                "stars": 3362,
                 "topics": [
                   "power-fx",
                   "powerfx"
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T05:39:49.756Z",
+    "last_updated": "2026-10-05T05:22:59.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
