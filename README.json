@@ -49,7 +49,7 @@
                 "open_issues": 61,
                 "owner": "rajyraman",
                 "repo": "Levelup-for-Dynamics-CRM",
-                "stars": 270,
+                "stars": 269,
                 "topics": [
                   "chrome-extension",
                   "dataverse",
@@ -175,7 +175,7 @@
                 "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3362,
+                "stars": 3363,
                 "topics": [
                   "power-fx",
                   "powerfx"
@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T15:11:08Z",
-                "open_issues": 376,
+                "open_issues": 379,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1289,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T05:22:59.053Z",
+    "last_updated": "2026-10-06T06:06:12.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
