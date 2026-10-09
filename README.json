@@ -175,7 +175,7 @@
                 "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3363,
+                "stars": 3364,
                 "topics": [
                   "power-fx",
                   "powerfx"
@@ -195,11 +195,11 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-06T11:45:44Z",
-                "open_issues": 379,
+                "last_commit": "2026-10-08T16:59:30Z",
+                "open_issues": 377,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1292,
+                "stars": 1293,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T05:50:00.348Z",
+    "last_updated": "2026-10-09T05:54:42.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
