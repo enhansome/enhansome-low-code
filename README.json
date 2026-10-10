@@ -175,7 +175,7 @@
                 "open_issues": 371,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
-                "stars": 3364,
+                "stars": 3361,
                 "topics": [
                   "power-fx",
                   "powerfx"
@@ -199,7 +199,7 @@
                 "open_issues": 377,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1293,
+                "stars": 1294,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -612,7 +612,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-09T09:00:33Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 417,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T05:54:42.069Z",
+    "last_updated": "2026-10-10T05:36:48.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
