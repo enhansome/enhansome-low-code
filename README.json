@@ -171,7 +171,7 @@
                 "id": 341704034,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-15T20:14:59Z",
+                "last_commit": "2026-10-16T22:39:20Z",
                 "open_issues": 378,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
@@ -195,8 +195,8 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-15T15:04:56Z",
-                "open_issues": 380,
+                "last_commit": "2026-10-16T13:26:40Z",
+                "open_issues": 377,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1298,
@@ -448,7 +448,7 @@
                 "id": 155584666,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T07:12:59Z",
+                "last_commit": "2026-10-16T13:12:43Z",
                 "open_issues": 6,
                 "owner": "Eickhel",
                 "repo": "PowerApps-samples",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:17:59.599Z",
+    "last_updated": "2026-10-17T04:08:56.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
