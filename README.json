@@ -172,7 +172,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-16T22:39:20Z",
-                "open_issues": 378,
+                "open_issues": 379,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
                 "stars": 3362,
@@ -199,7 +199,7 @@
                 "open_issues": 377,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1298,
+                "stars": 1299,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:08:56.817Z",
+    "last_updated": "2026-10-18T04:16:51.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
