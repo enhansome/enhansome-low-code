@@ -612,7 +612,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-09T09:00:33Z",
-                "open_issues": 27,
+                "open_issues": 30,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 418,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T04:16:51.676Z",
+    "last_updated": "2026-10-19T04:25:16.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
