@@ -150,8 +150,8 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,362 | 🐛 379 | 🌐 C# | 📅 2026-10-22 - Power Fx Low Code programming language.
-* [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,299 | 🐛 377 | 🌐 C# | 📅 2026-10-22 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
+* [Microsoft Power Fx](https://github.com/microsoft/Power-Fx) ⭐ 3,362 | 🐛 379 | 🌐 C# | 📅 2026-10-23 - Power Fx Low Code programming language.
+* [Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) ⭐ 1,297 | 🐛 378 | 🌐 C# | 📅 2026-10-22 - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Workato
 
@@ -161,8 +161,8 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) ⭐ 343 | 🐛 0 | 📅 2026-07-31 - Power Platform Fundamentals course materials.
-* [Power Fx Samples](https://github.com/pnp/powerfx-samples) ⭐ 135 | 🐛 0 | 📅 2026-10-22 - This repository contains samples for Power Fx Low Code programming language.
+* [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) ⭐ 344 | 🐛 0 | 📅 2026-07-31 - Power Platform Fundamentals course materials.
+* [Power Fx Samples](https://github.com/pnp/powerfx-samples) ⚠️ Archived - This repository contains samples for Power Fx Low Code programming language.
 * [Power Apps & Azure Lab](https://github.com/microsoft/PowerApps-Azure-Lab) ⚠️ Archived - Repository to host the PowerApps Azure Lab.
 
 ### Workato
@@ -173,9 +173,9 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Power Apps Samples](https://github.com/pnp/powerapps-samples) ⭐ 538 | 🐛 0 | 📅 2026-10-22 - Contains curated community Microsoft Power App samples.
-* [Power Automate Samples](https://github.com/pnp/powerautomate-samples) ⭐ 359 | 🐛 3 | 📅 2026-10-22 - Contains curated community samples for Microsoft Power Automate.
-* [SharePoint Power Platform Solutions](https://github.com/pnp/sp-power-platform-solutions) ⭐ 185 | 🐛 2 | 🌐 PowerShell | 📅 2020-01-29 - Sample PowerApps solutions designed to be used in SharePoint context.
+* [Power Apps Samples](https://github.com/pnp/powerapps-samples) ⚠️ Archived - Contains curated community Microsoft Power App samples.
+* [Power Automate Samples](https://github.com/pnp/powerautomate-samples) ⚠️ Archived - Contains curated community samples for Microsoft Power Automate.
+* [SharePoint Power Platform Solutions](https://github.com/pnp/sp-power-platform-solutions) ⚠️ Archived - Sample PowerApps solutions designed to be used in SharePoint context.
 * [PowerApps Samples](https://github.com/Eickhel/PowerApps-samples) ⭐ 84 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-20 - Power Apps samples by Power Nimbus.
 * [Power Apps Branding Template](https://github.com/iAmManCat/PowerApps-Branding-Template) ⭐ 73 | 🐛 0 | 🌐 PowerShell | 📅 2024-07-31 - A template to empower developers and reduce time wasted on control changes.
 * [Consume Power BI](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) ⭐ 19 | 🐛 3 | 🌐 PowerShell | 📅 2022-11-08 - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
@@ -219,9 +219,9 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Awesome No Code Low Code](https://github.com/valentin-vogel/awesome-nocode-lowcode) ⭐ 417 | 🐛 3 | 📅 2026-10-20 - A collection of awesome No Code and Low Code resources.
+* [Awesome No Code Low Code](https://github.com/valentin-vogel/awesome-nocode-lowcode) ⭐ 417 | 🐛 4 | 📅 2026-10-20 - A collection of awesome No Code and Low Code resources.
 * [Awesome Microsoft Power Platform](https://github.com/Power-Maverick/awesome-power-platform) ⭐ 113 | 🐛 1 | 📅 2022-10-14 - A collection of awesome things regarding the Power Platform ecosystem.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
