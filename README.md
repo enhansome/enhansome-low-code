@@ -219,9 +219,9 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-* [Awesome No Code Low Code](https://github.com/valentin-vogel/awesome-nocode-lowcode) ⭐ 417 | 🐛 4 | 📅 2026-10-20 - A collection of awesome No Code and Low Code resources.
+* [Awesome No Code Low Code](https://github.com/valentin-vogel/awesome-nocode-lowcode) ⭐ 417 | 🐛 5 | 📅 2026-10-20 - A collection of awesome No Code and Low Code resources.
 * [Awesome Microsoft Power Platform](https://github.com/Power-Maverick/awesome-power-platform) ⭐ 113 | 🐛 1 | 📅 2022-10-14 - A collection of awesome things regarding the Power Platform ecosystem.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
