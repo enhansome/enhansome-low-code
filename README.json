@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-30T13:20:08Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 653,
@@ -196,10 +196,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-22T15:05:07Z",
-                "open_issues": 378,
+                "open_issues": 377,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1297,
+                "stars": 1298,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -612,7 +612,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-20T19:12:57Z",
-                "open_issues": 5,
+                "open_issues": 2,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 417,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T04:26:19.548Z",
+    "last_updated": "2026-10-26T04:29:04.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
