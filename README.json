@@ -171,7 +171,7 @@
                 "id": 341704034,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-28T20:56:51Z",
+                "last_commit": "2026-11-03T19:04:37Z",
                 "open_issues": 379,
                 "owner": "microsoft",
                 "repo": "Power-Fx",
@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-30T16:21:55Z",
-                "open_issues": 380,
+                "open_issues": 381,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1299,
@@ -612,7 +612,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-20T19:12:57Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 417,
@@ -649,7 +649,7 @@
                 "open_issues": 1,
                 "owner": "Power-Maverick",
                 "repo": "awesome-power-platform",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T06:27:33.154Z",
+    "last_updated": "2026-11-04T05:59:37.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
@@ -683,7 +683,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-04-05T09:39:58Z",
-      "open_issues": 16,
+      "open_issues": 15,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
       "stars": 459,
