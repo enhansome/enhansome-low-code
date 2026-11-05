@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-30T16:21:55Z",
-                "open_issues": 381,
+                "open_issues": 384,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1299,
@@ -612,7 +612,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-20T19:12:57Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 417,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T05:59:37.141Z",
+    "last_updated": "2026-11-05T06:25:18.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
@@ -683,7 +683,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-04-05T09:39:58Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
       "stars": 459,
