@@ -381,7 +381,7 @@
                 "open_issues": 0,
                 "owner": "pnp",
                 "repo": "powerapps-samples",
-                "stars": 538,
+                "stars": 537,
                 "topics": [
                   "hacktoberfest",
                   "powerapps",
@@ -406,7 +406,7 @@
                 "open_issues": 0,
                 "owner": "pnp",
                 "repo": "powerautomate-samples",
-                "stars": 359,
+                "stars": 358,
                 "topics": [
                   "hacktoberfest",
                   "powerautomate",
@@ -646,7 +646,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2022-10-14T02:52:46Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Power-Maverick",
                 "repo": "awesome-power-platform",
                 "stars": 114,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T05:48:29.285Z",
+    "last_updated": "2026-11-09T05:58:33.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
