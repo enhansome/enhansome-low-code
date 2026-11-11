@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "cds",
                   "microsoft-dataverse",
@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-09T12:23:45Z",
-                "open_issues": 380,
+                "open_issues": 382,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1299,
@@ -612,10 +612,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-20T19:12:57Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -646,7 +646,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2022-10-14T02:52:46Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Power-Maverick",
                 "repo": "awesome-power-platform",
                 "stars": 114,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:01:40.456Z",
+    "last_updated": "2026-11-11T05:54:19.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
