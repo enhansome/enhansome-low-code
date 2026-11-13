@@ -49,7 +49,7 @@
                 "open_issues": 66,
                 "owner": "rajyraman",
                 "repo": "Levelup-for-Dynamics-CRM",
-                "stars": 271,
+                "stars": 272,
                 "topics": [
                   "chrome-extension",
                   "dataverse",
@@ -195,11 +195,11 @@
                 "id": 161588836,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-09T12:23:45Z",
-                "open_issues": 382,
+                "last_commit": "2026-11-12T15:05:23Z",
+                "open_issues": 383,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1299,
+                "stars": 1300,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -612,10 +612,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-20T19:12:57Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
-                "stars": 418,
+                "stars": 419,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T06:58:04.925Z",
+    "last_updated": "2026-11-13T06:22:17.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
@@ -686,7 +686,7 @@
       "open_issues": 16,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
-      "stars": 460,
+      "stars": 461,
       "topics": [
         "awesome",
         "awesome-list",
