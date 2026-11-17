@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-30T13:20:08Z",
-                "open_issues": 121,
+                "open_issues": 120,
                 "owner": "MscrmTools",
                 "repo": "XrmToolBox",
                 "stars": 654,
@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-12T15:05:23Z",
-                "open_issues": 384,
+                "open_issues": 385,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1302,
@@ -269,7 +269,7 @@
                 "open_issues": 0,
                 "owner": "MicrosoftLearning",
                 "repo": "PL-900-Microsoft-Power-Platform-Fundamentals",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
@@ -615,7 +615,7 @@
                 "open_issues": 6,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T06:07:25.741Z",
+    "last_updated": "2026-11-17T07:43:08.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
@@ -683,10 +683,10 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-04-05T09:39:58Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
-      "stars": 461,
+      "stars": 462,
       "topics": [
         "awesome",
         "awesome-list",
