@@ -199,7 +199,7 @@
                 "open_issues": 389,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1303,
+                "stars": 1305,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T06:27:24.986Z",
+    "last_updated": "2026-11-23T07:18:14.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
