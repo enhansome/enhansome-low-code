@@ -381,7 +381,7 @@
                 "open_issues": 0,
                 "owner": "pnp",
                 "repo": "powerapps-samples",
-                "stars": 539,
+                "stars": 538,
                 "topics": [
                   "hacktoberfest",
                   "powerapps",
@@ -612,7 +612,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-21T22:16:29Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "valentin-vogel",
                 "repo": "awesome-nocode-lowcode",
                 "stars": 419,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T07:18:14.832Z",
+    "last_updated": "2026-11-24T09:40:53.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
