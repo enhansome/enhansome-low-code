@@ -196,7 +196,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-25T12:51:31Z",
-                "open_issues": 384,
+                "open_issues": 385,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
                 "stars": 1305,
@@ -269,7 +269,7 @@
                 "open_issues": 0,
                 "owner": "MicrosoftLearning",
                 "repo": "PL-900-Microsoft-Power-Platform-Fundamentals",
-                "stars": 346,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:21.608Z"
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:00:02.571Z",
+    "last_updated": "2026-11-27T08:03:11.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
@@ -683,7 +683,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-04-05T09:39:58Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "zenitysec",
       "repo": "awesome-low-code",
       "stars": 461,
