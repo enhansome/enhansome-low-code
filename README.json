@@ -196,10 +196,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-25T12:51:31Z",
-                "open_issues": 385,
+                "open_issues": 386,
                 "owner": "microsoft",
                 "repo": "PowerPlatformConnectors",
-                "stars": 1305,
+                "stars": 1306,
                 "topics": [
                   "connector",
                   "hacktoberfest",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:03:11.181Z",
+    "last_updated": "2026-11-28T07:31:02.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Low Code platforms, vendors, tools and resources",
